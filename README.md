@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I am Chetan Prakash!
 
-<!--
-**chetan340/chetan340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- B.Tech AI/ML Student at K.R. Mangalam University, Gurugram.
+- Currently learning Python, Linux, Git and Machine Learning.
+- Interested in Artificial Intelligence, Machine Learning and Data Science.
+- Aspiring AI/ML Engineer.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Category | Technologies |
+|---|---|
+| Languages | Python |
+| Tools | Git, GitHub, VS Code |
+| Operating System | Linux |
+| Concepts | Machine Learning, AI, Problem Solving |
+
+## Featured Projects
+- CSE103 Lab Project
+- Python Programming Projects
+
+## Currently Working On
+- Learning Artificial Intelligence and Machine Learning.
+- Improving Python and programming skills.
+
+## Connect With Me
+- LinkedIn: [Your LinkedIn URL]
+- Email: Your College Email
+-
