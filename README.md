@@ -24,6 +24,6 @@
 - Improving Python and programming skills.
 
 ## Connect With Me
-- LinkedIn: [Your LinkedIn URL]
-- Email: Your College Email
--
+
+- Email: chetanoict8@gmail.com
+
